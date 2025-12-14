@@ -25,31 +25,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CocoaAI-IT&theme=github-compact&hide_border=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF" alt="Contribution Graph" width="100%" />
 </div>
 
----
-
-## 🎨 Featured Projects
-
-### [Cocoa Minimal Theme](https://github.com/CocoaAI-IT/cocoa-minimal-theme)
-Custom Obsidian theme with monochrome, high-contrast design
-- Color-only customization
-- Minimal visual impact
-- Focus on readability
-
-### [Cocoa Bookshelf](https://github.com/CocoaAI-IT/cocoa_bookshelf)
-React-based bookshelf application
-- Tailwind CSS styling
-- Vite build setup
-- Modern UI/UX
 
 ---
 
-## 🌱 Currently Learning
-
-- Advanced React patterns and hooks
-- CSS theming and design systems
-- Web accessibility best practices
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CocoaAI-IT&color=FFFFFF&style=flat-square&label=Profile+Views" alt="Profile views" />
